@@ -1,0 +1,4 @@
+[1112/083229.589:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1112/083643.560:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\LOGITECH\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\c5989b1e-291b-4e1d-8d5e-b66a1fc8f010: The system cannot find the path specified. (0x3)
+[1112/084337.299:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1112/085438.327:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
